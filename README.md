@@ -4,6 +4,8 @@ Un videojuego de acción frenética y supervivencia desarrollado en equipo duran
 
 👉 **[¡Juega en Itch.io!](https://k34dev.itch.io/k34-superviviente)** 👉 **[Ver perfil del proyecto en Conduit Gaming](https://conduitgaming.com/games/0874c44d-fb20-42f1-835a-95eeada77457)**
 
+👉 **[⬇️ Descarga para Windows (.zip)](https://github.com/RubenClon/K34-Superviviente/releases/download/v1.0/k34survivor.zip)** 
+👉 **[⬇️ Descarga para Android (.apk)](https://github.com/RubenClon/K34-Superviviente/releases/download/v1.0/k34survivor.apk)**  
 ---
 
 ## 👥 Desarrollo en Equipo y Colaboración
